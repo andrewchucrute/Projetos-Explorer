@@ -26,13 +26,13 @@
 ![andrewchucrute github io_Projeto-Explorer_ (5)](https://user-images.githubusercontent.com/103382295/192174021-fcc06ad0-e180-4939-9e98-0bfe99744964.png)
 
 
-#Projeto Explorer 3 
+# Projeto Explorer 3 
 
 [Clique aqui para acessar!](https://andrewchucrute.github.io/Primeiro-Projeto/)
 
 ![andrewchucrute github io_Primeiro-Projeto_](https://user-images.githubusercontent.com/103382295/192174261-adf8ca15-99a9-4bd8-bc28-07bb5c61bb4a.png)
 
-##Mobile 
+## Mobile 
 
 ![andrewchucrute github io_Primeiro-Projeto_ (1)](https://user-images.githubusercontent.com/103382295/192174279-1264e573-f035-4c2a-9c03-230c5acd9fa2.png)
 
